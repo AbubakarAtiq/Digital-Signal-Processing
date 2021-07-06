@@ -1,0 +1,30 @@
+Digital Signal Processing
+___________________
+Course learning outcomes:
+1. Analyze and evaluate the properties of LTI systems in terms of its z-transforms.
+2. Understand the sampling theorem and perform sampling on continuous-time signals.
+3. Apply the concepts of all-pass and minimum-phase systems to analyze the LTI system and address
+complex design problems.
+4. Evaluate design problems related to frequency selective processing and design FIR/IIR filters.
+5. Construct systems for spectral estimation of real signals.
+_________________________
+Course outline:
+1. Review of signals and systems: Discrete LTI systems, convolution, difference equations.
+2. z-transforms.
+3. Sampling of continuoous time signals: Basic principles, changing sampling rate, pre-filtering
+to avoid aliasing, Quantization errors.
+4. Transform analysis of LTI systems.
+5. Frequency response of LTI systems, All pass systems, Minimum phase systems.
+6. IIR and FIR filters and filter design techniques.
+7. Fourier analysis of real signals with DFT.
+Practical:
+1. Implementation of FIR and IIR filter.
+2. Signal detection.
+3. Equalizer implementation.
+4. Channel estimation.
+_________________
+Text and Reference books:
+1. A.V. Oppenheim, R.W. Schafer and J.R. Buck, Discrete-time signal processing, 3rd edition, pearson education, 2009.
+2. S.K. Mitra, Digital Signal Processing: A computer based approach, McGraw-Hill, 2011.
+3. J.G. Proakis and D.Manolakis, Digital Signal Processing: Principles, Algorithms and applications, Prentice-Hall, 2007.
+4. Li Tan, Digital Signal Processing Fundamentals and Applications, Academic Press, Elsevier, ISBN: 978-0-12-374090-8
